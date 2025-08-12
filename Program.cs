@@ -287,6 +287,33 @@
 
 
 
+//Task8
+// System.Console.Write($"The first number is: ");
+// int a = Convert.ToInt32(Console.ReadLine());
+// System.Console.Write($"The operation is: ");
+// string b = Console.ReadLine();
+// System.Console.Write($"The second number is: ");
+// int c = Convert.ToInt32(Console.ReadLine());
+
+// if (b == "+")
+// {
+//     System.Console.WriteLine($"{a} + {c} = {a + c}");
+// }
+// if (b == "-")
+// {
+//     System.Console.WriteLine($"{a} - {c} = {a - c}");
+// }
+// if (b == "*")
+// {
+//     System.Console.WriteLine($"{a} * {c} = {a * c}");
+// }
+// if (b == "/")
+// {
+//     System.Console.WriteLine($"{a} / {c} = {a / c}");
+// }
+
+
+
 
 // Task9
 // int Power(int a, int b)
